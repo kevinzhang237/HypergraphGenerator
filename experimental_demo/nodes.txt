@@ -1,0 +1,250 @@
+1	The Shawshank Redemption
+2	The Godfather
+3	The Godfather: Part II
+4	Il buono, il brutto, il cattivo.
+5	Pulp Fiction
+6	Schindler's List
+7	The Dark Knight
+8	One Flew Over the Cuckoo's Nest
+9	12 Angry Men
+10	Star Wars: Episode V - The Empire Strikes Back
+11	Casablanca
+12	Star Wars
+13	Shichinin no samurai
+14	The Lord of the Rings: The Return of the King
+15	Goodfellas
+16	Rear Window
+17	Cidade de Deus
+18	Up
+19	Raiders of the Lost Ark
+20	C'era una volta il West
+21	The Lord of the Rings: The Fellowship of the Ring
+22	Fight Club
+23	The Usual Suspects
+24	Psycho
+25	The Silence of the Lambs
+26	Sunset Blvd.
+27	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+28	The Matrix
+29	Memento
+30	North by Northwest
+31	It's a Wonderful Life
+32	Se7en
+33	Citizen Kane
+34	The Lord of the Rings: The Two Towers
+35	Leon
+36	Apocalypse Now
+37	American Beauty
+38	Taxi Driver
+39	American History X
+40	Lawrence of Arabia
+41	Vertigo
+42	WALL�E
+43	Forrest Gump
+44	Paths of Glory
+45	Le fabuleux destin d'Amelie Poulain
+46	M
+47	Double Indemnity
+48	To Kill a Mockingbird
+49	Alien
+50	A Clockwork Orange
+51	The Treasure of the Sierra Madre
+52	The Shining
+53	The Departed
+54	The Third Man
+55	Das Leben der Anderen
+56	Saving Private Ryan
+57	Chinatown
+58	The Pianist
+59	Terminator 2: Judgment Day
+60	Sen to Chihiro no kamikakushi
+61	Eternal Sunshine of the Spotless Mind
+62	City Lights
+63	Slumdog Millionaire
+64	Aliens
+65	Requiem for a Dream
+66	L.A. Confidential
+67	Das Boot
+68	Monty Python and the Holy Grail
+69	The Bridge on the River Kwai
+70	Reservoir Dogs
+71	El laberinto del fauno
+72	Rashomon
+73	Raging Bull
+74	The Maltese Falcon
+75	All About Eve
+76	Modern Times
+77	Gran Torino
+78	Singin' in the Rain
+79	Some Like It Hot
+80	Rebecca
+81	Der Untergang
+82	Metropolis
+83	The Prestige
+84	Amadeus
+85	The Apartment
+86	The Elephant Man
+87	La vita e bella
+88	2001: A Space Odyssey
+89	Nuovo cinema Paradiso
+90	The Great Dictator
+91	Once Upon a Time in America
+92	Full Metal Jacket
+93	The Great Escape
+94	Star Trek
+95	Ladri di biciclette
+96	The Sting
+97	Back to the Future
+98	Sin City
+99	Mr. Smith Goes to Washington
+100	Touch of Evil
+101	The Wrestler
+102	On the Waterfront
+103	Braveheart
+104	Det sjunde inseglet
+105	Hotel Rwanda
+106	Batman Begins
+107	Jaws
+108	Indiana Jones and the Last Crusade
+109	No Country for Old Men
+110	Strangers on a Train
+111	Blade Runner
+112	Star Wars: Episode VI - Return of the Jedi
+113	The Green Mile
+114	Unforgiven
+115	The Manchurian Candidate
+116	Gladiator
+117	Notorious
+118	High Noon
+119	Per qualche dollaro in piu
+120	Oldboy
+121	The Big Sleep
+122	Cool Hand Luke
+123	Die Hard
+124	Fargo
+125	The Wizard of Oz
+126	There Will Be Blood
+127	The General
+128	Mononoke-hime
+129	Witness for the Prosecution
+130	The Hangover
+131	Donnie Darko
+132	Smultronstallet
+133	Yojimbo
+134	It Happened One Night
+135	Heat
+136	Kind Hearts and Coronets
+137	Annie Hall
+138	Ran
+139	The Deer Hunter
+140	Ben-Hur
+141	The Sixth Sense
+142	Kill Bill: Vol. 1
+143	Platoon
+144	Into the Wild
+145	Judgment at Nuremberg
+146	Les diaboliques
+147	Le notti di Cabiria
+148	Le salaire de la peur
+149	Million Dollar Baby
+150	Butch Cassidy and the Sundance Kid
+151	The Bourne Ultimatum
+152	81/2
+153	Life of Brian
+154	The Grapes of Wrath
+155	The Big Lebowski
+156	Snatch.
+157	The Gold Rush
+158	The Graduate
+159	The Night of the Hunter
+160	Stand by Me
+161	The Killing
+162	Ratatouille
+163	Finding Nemo
+164	Amores perros
+165	Dog Day Afternoon
+166	Gandhi
+167	Brief Encounter
+168	Gone with the Wind
+169	Trainspotting
+170	The Lion King
+171	Scarface
+172	The Wild Bunch
+173	The Thing
+174	Sunrise: A Song of Two Humans
+175	V for Vendetta
+176	Groundhog Day
+177	The Terminator
+178	Sleuth
+179	Harvey
+180	Toy Story
+181	The Princess Bride
+182	The Kid
+183	The Hustler
+184	The Curious Case of Benjamin Button
+185	Shadow of a Doubt
+186	Umberto D.
+187	The Best Years of Our Lives
+188	The Incredibles
+189	Twelve Monkeys
+190	Children of Men
+191	Lock, Stock and Two Smoking Barrels
+192	Lat den ratte komma in
+193	Stalag 17
+194	The Ox-Bow Incident
+195	Hotaru no haka
+196	Duck Soup
+197	Casino
+198	La battaglia di Algeri
+199	The African Queen
+200	The Lady Vanishes
+201	Dial M for Murder
+202	Letters from Iwo Jima
+203	The Adventures of Robin Hood
+204	In Bruges
+205	Anatomy of a Murder
+206	The Conversation
+207	A Streetcar Named Desire
+208	King Kong
+209	The Exorcist
+210	The Lost Weekend
+211	Ed Wood
+212	Le scaphandre et le papillon
+213	La strada
+214	Who's Afraid of Virginia Woolf?
+215	Rope
+216	His Girl Friday
+217	All Quiet on the Western Front
+218	Rosemary's Baby
+219	Changeling
+220	Bonnie and Clyde
+221	Safety Last!
+222	Crash
+223	Sweet Smell of Success
+224	Frankenstein
+225	The Philadelphia Story
+226	Network
+227	Kill Bill: Vol. 2
+228	Patton
+229	Manhattan
+230	The Day the Earth Stood Still
+231	Great Expectations
+232	Magnolia
+233	Big Fish
+234	Wo hu cang long
+235	Arsenic and Old Lace
+236	Little Miss Sunshine
+237	Laura
+238	Mystic River
+239	Nosferatu, eine Symphonie des Grauens
+240	Glory
+241	Roman Holiday
+242	Good Will Hunting
+243	In the Heat of the Night
+244	Rocky
+245	La dolce vita
+246	Harold and Maude
+247	Spartacus
+248	My Man Godfrey
+249	Planet of the Apes
+250	Bringing Up Baby

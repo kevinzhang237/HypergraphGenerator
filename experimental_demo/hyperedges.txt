@@ -1,0 +1,20 @@
+Universally Acclaimed Masterpiece	{3, 11, 12, 13, 33, 41, 46, 50, 76, 82, 88, 90, 95, 107, 174, 208}
+Masterpiece about show business	{33}
+Romance	{11, 174, 22, 42, 137, 176, 220, 233}
+Political Drama	{9, 166}
+Western&Co.	{13, 194, 227}
+World/Adventure	{208, 166, 30, 71, 125, 160}
+Musical	{125}
+Mystery/Crime	{41, 46, 194, 30, 23, 32, 238}
+Gangster	{3, 220, 23, 109}
+Thriller/Horror/Monster	{107, 208, 32, 109, 59, 177}
+Action	{227, 59, 177, 7}
+Dark and weird drama	{50, 22}
+Sci-Fi	{12, 82, 88}
+Fantasy	{12, 233, 71}
+Comedy	{76, 90, 137, 176, 43, 193}
+Comics	{7}
+War	{11, 90, 193, 139}
+Drama	{95, 9, 160, 238, 139}
+Drama about tolerance	{43}
+Animation	{42}
